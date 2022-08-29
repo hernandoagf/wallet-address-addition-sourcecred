@@ -1,0 +1,13 @@
+{
+  "name": "wallet-addresses-migration",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@googleapis/sheets": "^0.3.0",
+    "dotenv": "^14.3.2",
+    "ethers": "^5.5.3",
+    "sourcecred": "^0.10.2"
+  }
+}
